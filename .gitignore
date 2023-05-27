@@ -1,0 +1,12 @@
+# No venv, pycaches - too many files
+/api/venv
+/api/__pycache__
+
+# No .env
+/api/.env
+/ui/.env
+
+__pycache__
+
+# Zips ignored
+*.zip
