@@ -1,4 +1,4 @@
-# Unbias.ly
+# NewsRanker
 Website code for a news aggregator and ranker based on language used.
 
 ## API
